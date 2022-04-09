@@ -1,24 +1,5 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Basic Chat base on Rails 7, turbo + stimulus + action cable + bootstrap.
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+<img width="528" alt="Zrzut ekranu 2022-04-9 o 18 26 02" src="https://user-images.githubusercontent.com/193707/162582843-297e478b-7d8a-4e71-ae2d-159750902ea5.png">
